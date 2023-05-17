@@ -1,0 +1,7 @@
+# Hide conservative brainwashing websites
+foxnews\.com
+.*\.foxnews\.com
+newsmax\.com
+.*\.newsmax\.com
+breitbart\.com
+.*\.breitbart\.com
